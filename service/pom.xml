@@ -5,7 +5,7 @@
         <groupId>gov.nsa.datawave.microservice</groupId>
         <artifactId>datawave-microservice-service-parent</artifactId>
         <version>1.7.1</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>dictionary-service</artifactId>
     <version>1.2-SNAPSHOT</version>
@@ -21,7 +21,7 @@
         <start-class>datawave.microservice.dictionary.DictionaryService</start-class>
         <version.microservice.dictionary-api>1.2-SNAPSHOT</version.microservice.dictionary-api>
         <version.microservice.starter>1.6.3</version.microservice.starter>
-        <version.webjars.datatables>1.10.19</version.webjars.datatables>
+        <version.webjars.datatables>1.10.25</version.webjars.datatables>
         <version.webjars.jquery>3.3.1-2</version.webjars.jquery>
     </properties>
     <dependencyManagement>
